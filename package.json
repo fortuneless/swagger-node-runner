@@ -31,7 +31,7 @@
     "multer": "^1.0.6",
     "parseurl": "^1.3.0",
     "qs": "^6.4.0",
-    "sway": "fortuneless/sway#d91cdc68a4a89af3de813bc730849afc39d5fd81",
+    "sway": "fortuneless/sway#0d5064842fde2827e39cbe740c135345f4f1f532",
     "type-is": "^1.6.9"
   },
   "devDependencies": {
