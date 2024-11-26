@@ -23,7 +23,7 @@
     "async": "^1.5.0",
     "bagpipes": "fortuneless/bagpipes#5a71e86cc403f70b48dd0c1298976c45e46475b2",
     "body-parser": "^1.14.1",
-    "config": "^1.16.0",
+    "config": "^3.3.12",
     "cors": "^2.5.3",
     "debug": "^4.3.4",
     "js-yaml": "^3.3.0",
